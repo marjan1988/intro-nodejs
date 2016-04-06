@@ -1,0 +1,23 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjan1988/intro-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marjan1988/intro-nodejs/issues"
+  },
+  "homepage": "https://github.com/marjan1988/intro-nodejs#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

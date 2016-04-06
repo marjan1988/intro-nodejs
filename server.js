@@ -1,3 +1,8 @@
+//NODE JS module
+var express = require('express');
+
+//Server app
+var app = express();
 
 exports.start = function(){
 	
